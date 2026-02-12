@@ -8,7 +8,6 @@ let accountState
 
 accountEmail = "aakash@google.com"
 accountPassword = "1122330"
-accountCity = "Delhi"
 
 /*
 Prefer not to use var
