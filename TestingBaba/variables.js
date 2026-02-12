@@ -1,5 +1,5 @@
 // what is variables?
-// variables we have use to hold the value and data. we have 4 typs of variables but now in java script we only use 2 types of variables-
+// variables we have use to hold the value and data. we have 4 typs of variables but now in java script we only use 2 types of variables
 // i. let : if we declare let varibale so we can re-assign the value.
 // ii. const: if we decalre const variable so we can't re-asign the value.
 
