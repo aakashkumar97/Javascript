@@ -25,9 +25,9 @@ This repository contains my personal learning materials and practice code as I p
 
 ## 📅 Progress
 
-- **Last Updated:** [Date]
-- **Current Chapter:** [Chapter Name]
-- **Total Commits:** [Number]
+- **Last Updated:** 24 Feb 2026
+- **Current Chapter:** TestingBaba/minimumDemo
+- **Total Commits:** 5
 
 ## 🚀 How to Use
 
